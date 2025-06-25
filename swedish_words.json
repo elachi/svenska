@@ -1,0 +1,271 @@
+[
+  {
+    "swedish": "katt",
+    "english": "cat",
+    "group": "50%",
+    "category": "animal",
+    "label": "0%",
+    "seen": 0
+  },
+  {
+    "swedish": "telefone",
+    "english": "telphone",
+    "group": "0%",
+    "category": "objects ",
+    "label": "0%",
+    "seen": 0
+  },
+  {
+    "swedish": "vatten",
+    "english": "water",
+    "group": "0%",
+    "category": "nature",
+    "label": "0%",
+    "seen": 1
+  },
+  {
+    "swedish": "gör",
+    "english": "doing",
+    "label": "0%",
+    "category": "verb",
+    "seen": 0
+  },
+  {
+    "swedish": "förra",
+    "english": "last | previous",
+    "label": "0%",
+    "category": "word",
+    "seen": 1
+  },
+  {
+    "swedish": "ingen",
+    "english": "nobody",
+    "label": "0%",
+    "category": "word",
+    "seen": 0
+  },
+  {
+    "swedish": "antingen",
+    "english": "either",
+    "label": "0%",
+    "category": "word",
+    "seen": 1
+  },
+  {
+    "swedish": "själv",
+    "english": "self",
+    "label": "0%",
+    "category": "word",
+    "seen": 1
+  },
+  {
+    "swedish": "hus",
+    "english": "house",
+    "label": "0%",
+    "category": "at home",
+    "seen": 7
+  },
+  {
+    "swedish": "dator",
+    "english": "computer",
+    "label": "0%",
+    "category": "in office",
+    "seen": 1
+  },
+  {
+    "swedish": "barfota",
+    "english": "barefoot",
+    "label": "0%",
+    "category": "outside",
+    "seen": 1
+  },
+  {
+    "swedish": "ett blåbär",
+    "english": "a blueberry",
+    "label": "0%",
+    "category": "food & drink",
+    "seen": 1
+  },
+  {
+    "swedish": "blåser",
+    "english": "blowing (wind)",
+    "label": "0%",
+    "category": "weather",
+    "seen": 1
+  },
+  {
+    "swedish": "efterrätt",
+    "english": "dessert",
+    "label": "0%",
+    "category": "food & drink",
+    "seen": 0
+  },
+  {
+    "swedish": "färja",
+    "english": "Ferry",
+    "label": "0%",
+    "category": "transport",
+    "seen": 1
+  },
+  {
+    "swedish": "firar",
+    "english": "celebration",
+    "label": "0%",
+    "category": "action",
+    "seen": 0
+  },
+  {
+    "swedish": "gissar",
+    "english": "to guess",
+    "label": "0%",
+    "category": "verb",
+    "seen": 0
+  },
+  {
+    "swedish": "glömmer",
+    "english": "to forget",
+    "label": "0%",
+    "category": "verb",
+    "seen": 1
+  },
+  {
+    "swedish": "en granne",
+    "english": "en mormor",
+    "label": "0%",
+    "category": "family",
+    "seen": 1
+  },
+  {
+    "swedish": "bror",
+    "english": "brother",
+    "label": "0%",
+    "category": "family",
+    "seen": 1
+  },
+  {
+    "swedish": "mor",
+    "english": "mother",
+    "label": "0%",
+    "category": "family",
+    "seen": 1
+  },
+  {
+    "swedish": "far",
+    "english": "father",
+    "label": "0%",
+    "category": "family",
+    "seen": 1
+  },
+  {
+    "swedish": "ifall",
+    "english": "if",
+    "label": "0%",
+    "category": "verb",
+    "seen": 0
+  },
+  {
+    "swedish": "en inbjudan",
+    "english": "an invitation",
+    "label": "0%",
+    "category": "action",
+    "seen": 2
+  },
+  {
+    "swedish": "naken",
+    "english": "naked",
+    "label": "0%",
+    "category": "word",
+    "seen": 2
+  },
+  {
+    "swedish": "orkar",
+    "english": "have energy",
+    "label": "0%",
+    "category": "verb",
+    "seen": 1
+  },
+  {
+    "swedish": "ropar",
+    "english": "to shout",
+    "label": "0%",
+    "category": "verb",
+    "seen": 1
+  },
+  {
+    "swedish": "skiner",
+    "english": "shining",
+    "label": "0%",
+    "category": "action | verb",
+    "seen": 2
+  },
+  {
+    "swedish": "skriker",
+    "english": "the noise the seagull  make ",
+    "label": "0%",
+    "category": "action | verb",
+    "seen": 1
+  },
+  {
+    "swedish": "skärgård",
+    "english": "archipelago ",
+    "label": "0%",
+    "category": "noun ",
+    "seen": 0
+  },
+  {
+    "swedish": "skjuter",
+    "english": "to shoot",
+    "label": "0%",
+    "category": "verb",
+    "seen": 1
+  },
+  {
+    "swedish": "krogen",
+    "english": "pub",
+    "label": "0%",
+    "category": "place",
+    "seen": 1
+  },
+  {
+    "swedish": "vid",
+    "english": "at / by",
+    "label": "0%",
+    "category": "Location",
+    "seen": 0
+  },
+  {
+    "swedish": "bredvid",
+    "english": "next to",
+    "label": "0%",
+    "category": "Location",
+    "seen": 0
+  },
+  {
+    "swedish": "mitt emot",
+    "english": "opposite",
+    "label": "0%",
+    "category": "Location",
+    "seen": 0
+  },
+  {
+    "swedish": "till höger om",
+    "english": "to the right of",
+    "label": "0%",
+    "category": "Location",
+    "seen": 0
+  },
+  {
+    "swedish": "till vänster om",
+    "english": "to the left of",
+    "label": "0%",
+    "category": "Location",
+    "seen": 0
+  },
+  {
+    "swedish": "på storgatan",
+    "english": "on storgatan (the street / road)",
+    "label": "0%",
+    "category": "Location",
+    "seen": 0
+  }
+]
