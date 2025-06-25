@@ -7,7 +7,7 @@ import time
 
 DATA_FILE = "swedish_words.json"
 COOLDOWN_SECONDS = 300
-ADMIN_PASSWORD = "mysecret"
+ADMIN_PASSWORD = st.secrets.get("admin_password", "")
 LABELS = ["0%", "25%", "50%", "75%", "100%"]
 
 
